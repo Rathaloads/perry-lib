@@ -1,0 +1,1 @@
+{"code":"export var D = \"Hello Wrold\";\r\n","dts":{"name":"H:/perry-lib/index.d.ts","writeByteOrderMark":false,"text":"export declare const D = \"Hello Wrold\";\r\n"}}
